@@ -21,7 +21,6 @@
 title: TestShift
 email: c.e.brandt@tudelft.nl
 description: >-
-The TestShift project investigates software testing at the intersection of socio-technical and technical factors.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
