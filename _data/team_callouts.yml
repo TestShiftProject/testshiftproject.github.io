@@ -1,22 +1,28 @@
 style: is-light
 height: is-medium
 items:
-  - title: Andy Zaidman
-    subtitle: Professor for Software Quality
-    icon: fa-space-shuttle
+  - title: You?
+    subtitle: PhD Student or Post-Doc
     description: >
-      The example description text goes here and can be multiple lines.
+      <img src="/img/user-placeholder.png" alt="Placeholder photo" width="300" height="300">
 
-      For example, such as this. 
-    call_to_action_name: Call to action 1
-    call_to_action_link: /page-1/
+      We are looking several PhD students and Post-Docs to join our project!
+    call_to_action_name: Learn more about the open positions
+    call_to_action_link: /vacancies/
   - title: Carolin Brandt
     subtitle: PhD Student
-    icon: fa-wrench
     description: >
-      The example description text goes here and can be multiple lines.
+      <img src="https://avatars1.githubusercontent.com/u/15169604" alt="Photo of Carolin Brandt" width="300" height="300">
 
-      For example, such as this.
-    call_to_action_name: Call to action 2
-    call_to_action_link: /page-2/
+      Caro is researching how we can support developers in improving their test suite by visualizing automated test amplification.
+    call_to_action_name: Learn more about Caro's PhD topic
+    call_to_action_link: /visualizing-amplification/
+  - title: Andy Zaidman
+    subtitle: Professor in Software Quality
+    description: >
+      <img src="https://avatars1.githubusercontent.com/u/3475457" alt="Photo of Andy Zaidman" width="300" height="300">
+
+      Andy is a full professor at the Delft University of Technology in the Netherlands and leading the TestShift project.
+    call_to_action_name: Find out more about Andy's research
+    call_to_action_link: https://azaidman.github.io/
 
