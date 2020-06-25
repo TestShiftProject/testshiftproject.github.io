@@ -36,15 +36,14 @@ Create an application package containing:
 - A detailed transcript of university grades
 - Proof of English proficiency
 
-Send your complete application package to Andy Zaidman (a.e.zaidman@tudelft.nl).  
-On December 24th, 2019 there were still open PhD positions available... so apply soon!
+Send your complete application package to Andy Zaidman (a.e.zaidman@tudelft.nl).
 
 ## Looking for more information?
 
 Please contact Andy Zaidman (a.e.zaidman@tudelft.nl).  
-→ you can also have a look at my research at https://azaidman.github.io
+→ you can also have a look at my research at [https://azaidman.github.io](https://azaidman.github.io)
 
-If you want to know more about TestShift & the Software Engineering Research Group from the PhD Student side you can contact Carolin Brandt (c.e.brandt@tudelft.nl) 😊
+If you want to know more about the TestShift project & the Software Engineering Research Group from the PhD Student side you can contact Carolin Brandt (c.e.brandt@tudelft.nl) 😊
 
 ## About the research environment
 
@@ -54,4 +53,4 @@ SERG is part of the Department of Software Technology (ST), which comprises rese
 
 The Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS) is known worldwide for its high academic quality and the social relevance of its research programmes. The faculty’s excellent facilities accentuate its international position in teaching and research. Within this interdisciplinary and international setting the faculty employs more than 1100 employees, including about 400 graduate students and 4000 undergraduate students. Together they work on a broad range of technical innovations in the fields of sustainable energy, telecommunications, microelectronics, embedded systems, computer and software engineering, artificial intelligence, interactive multimedia and applied mathematics.
 
-Located in a charming college town, TU Delft is the largest and oldest public technological university in the Netherlands. The university is regularly ranked among the most highly-rated worldwide for engineering and technology. Information about academic careers in the Netherlands and working at TU Delft can be found at [www.factcards.nl](www.factcards.nl) and [www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/coming-to-the-netherlands-tu-delft/](www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/coming-to-the-netherlands-tu-delft/).
+Located in a charming college town, TU Delft is the largest and oldest public technological university in the Netherlands. The university is regularly ranked among the most highly-rated worldwide for engineering and technology. Information about academic careers in the Netherlands and working at TU Delft can be found at [www.factcards.nl](https://www.factcards.nl) and [www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/coming-to-the-netherlands-tu-delft/](https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/coming-to-the-netherlands-tu-delft/).
