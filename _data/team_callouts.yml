@@ -8,7 +8,7 @@ items:
 
       We are looking several PhD students and Post-Docs to join our project!
     call_to_action_name: Learn more about the open positions
-    call_to_action_link: /vacancies/
+    call_to_action_link: /vacancies
   - title: Carolin Brandt
     subtitle: PhD Student
     description: >
@@ -16,7 +16,7 @@ items:
 
       Caro is researching how we can support developers in improving their test suite by visualizing automated test amplification.
     call_to_action_name: Learn more about Caro's PhD topic
-    call_to_action_link: /visualizing-amplification/
+    call_to_action_link: /visualizing-amplification
   - title: Andy Zaidman
     subtitle: Professor in Software Quality
     description: >
