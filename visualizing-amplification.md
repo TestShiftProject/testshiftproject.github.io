@@ -17,7 +17,7 @@ We are focussing on the amplification of JUnit test cases, powered by the [DSpot
 Even though DSpot is fully automatic, at the end developers have to inspect, understand and maintain the amplified test cases.
 We want to help them decide which amplified test cases are valuable for their project and use visualizations to help them understand the differences between test cases, as well as how their system works as a whole 😄
 
-## Step 1: Learning About What Motivates Developers to Test & How Do They Judge Test Cases?
+## Step 1: Learning About What Motivates Developers to Test & How They Judge Test Cases
 Our goal is to support developers by improving their test suite.  
 Though, what even is a "better" test suite for a developer?  
 What do they want to improve in their test suite?  
@@ -30,7 +30,7 @@ Alternatively you can fill out our online survey: [Link TBA]
 
 ## Step 2: Amplifying JUnit Tests within IntelliJ - Test Cube Plugin
 To integrate amplification into the development process we created an IntelliJ Plugin that amplifies your test cases without leaving your IDE!
-Find out more about the [Test Cube Plugin](https://github.com/TestShiftProject/test-cube).
+Find out more about the [Test Cube Plugin](https://github.com/TestShiftProject/test-cube) or install it from the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/14678-test-cube).
 
 [Write us](mailto:c.e.brandt@tudelft.nl?subject=[TestShift]%20Test%20Cube%20Plugin%20Feedback) if you have any ideas / issues / feature requests!
 
