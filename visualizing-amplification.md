@@ -32,6 +32,10 @@ Alternatively you can fill out our online survey: [Link TBA]
 To integrate amplification into the development process we created an IntelliJ Plugin that amplifies your test cases without leaving your IDE!
 Find out more about the [Test Cube Plugin](https://github.com/TestShiftProject/test-cube) or install it from the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/14678-test-cube).
 
+<iframe frameborder="none" width="230px" height="110px" src="https://plugins.jetbrains.com/embeddable/card/14678"></iframe>
+
+<iframe frameborder="none" width="245px" height="48px" src="https://plugins.jetbrains.com/embeddable/install/14678"></iframe>
+
 [Write us](mailto:c.e.brandt@tudelft.nl?subject=[TestShift]%20Test%20Cube%20Plugin%20Feedback) if you have any ideas / issues / feature requests!
 
 ## Step 3: Visualizing & Informing About Amplified Test Cases
