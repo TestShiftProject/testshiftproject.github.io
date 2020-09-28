@@ -26,11 +26,13 @@ Where could amplification support developers & what information should we show t
 To understand more about the motivations of developers when it comes to testing, we are surveying and interviewing a wide range of developers that write test cases.  
 **Do you want to join & tell us what motivates you to write test cases?**  
 We would like to hear from you over a digital coffee! [→ write Carolin an e-mail!](mailto:c.e.brandt@tudelft.nl?subject=[TestShift]%20Testing%20Motivation%20Interview)  
-Alternatively you can fill out our online survey: [Link TBA]
+Alternatively you can fill out our online survey: [Link](https://research-survey.ewi.tudelft.nl/index.php/871464?lang=en)
 
 ## Step 2: Amplifying JUnit Tests within IntelliJ - Test Cube Plugin
 To integrate amplification into the development process we created an IntelliJ Plugin that amplifies your test cases without leaving your IDE!
 Find out more about the [Test Cube Plugin](https://github.com/TestShiftProject/test-cube) or install it from the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/14678-test-cube).
+
+<img src="img/test-cube-screenshot.png" alt="Screenshot of the Test Cube Plugin in IntellJ. Showing the instructions, the original test case, the amplified test cases and the lines where more instructions were covered">
 
 <iframe frameborder="none" width="230px" height="110px" src="https://plugins.jetbrains.com/embeddable/card/14678"></iframe>
 
