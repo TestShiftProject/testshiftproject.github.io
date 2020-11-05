@@ -10,15 +10,15 @@ permalink: /test-amplification-interviews
 Hey! Thank you for being interested in my research :)
 
 I'm Carolin, a PhD Student looking into how we could help developers automatically improve their test suites.
-There exist several tools that generate or improve test suites automatically with respect to often structural coverage or mutation score. However these are rarely used in practice and in evaluation with developers, they are often unsure how to configure and use them, do not like the generated tests or find the interaction with the tool too cumbersome.
+There exist several tools that generate or improve test suites automatically with respect to structural coverage or mutation score. However these are rarely used in practice. In evaluations developers are often unsure how to configure and use them, do not like the generated tests or find the interaction with the tool too cumbersome.
 
-Combating this is what my research focusses on. I want to enable developers to leverage automated test generation in their day-to-day development.
+Combating this is what my research focusses on. I want to enable developers to use automated test generation in their day-to-day development.
 
 Currently, I am conducting interviews to understand how developers want to improve their existing test suites and how automated techniques can help them.
 
 That is where you come into play 😊 Would you want to share your vision of testing with me?  
 Would you want to try out an integrated, automated test improvement tool and give feedback to shape how we develop it further?  
-Do you want to shape our tool so that it saves you time in writing test in the future?
+Do you want to influence our tool so that it saves you time in writing test in the future?
 
 If you thought "yes" to any of these, read further ↓
 
@@ -32,7 +32,7 @@ Don't fear, there is nothing to install for you beforehand 🙂 I've setup Intel
 I plan to conduct them over Zoom, if you would rather use another similar service that is also okay!
 
 ## How do I participate? 😄
-To make scheduling faster than emailing back and forth I set up an online calendar where you can pick a time that fits you.  
+To make scheduling faster than emailing back and forth, I set up an online calendar where you can pick a time that fits you.  
 Please go to this link: [https://www.picktime.com/testamplificationinterviews](https://www.picktime.com/testamplificationinterviews)  
 Choose "Test Amplification Interviews" & pick a time that fits you. (plan in 45-60 mins).  
 If you want to use something else than zoom, please tell me in the "Booking Notes" 🙂
