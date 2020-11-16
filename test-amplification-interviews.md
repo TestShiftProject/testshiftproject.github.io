@@ -41,5 +41,6 @@ After you picked a time, I'll send you an email with all further details and the
 
 If none of the open slots fit you, send me one that fits for you via [email](mailto:c.e.brandt@tudelft.nl?subject=[TestShift]%20Interviews) & we'll figure it out 😄
 
-To analyze your answers in-depth I record the interviews. The recordings will only be shared with the researchers involved in the study and be deleted after the study is completed 🙂
+To analyze your answers in-depth I will record the interviews.
+The recordings will only be shared with the researchers involved in the study and be deleted after the study is completed.
 **If you do not want the interview to be recorded** please also send me an [email](mailto:c.e.brandt@tudelft.nl?subject=[TestShift]%20Interview%20Recordings) before picking a time slot 😉
