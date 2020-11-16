@@ -31,10 +31,11 @@ Don't fear, there is nothing to install for you beforehand 🙂 I've setup Intel
 
 I plan to conduct them over Zoom, if you would rather use another similar service that is also okay!
 
-## How do I participate? 😄
+## How can you participate? 😄
 To make scheduling faster than emailing back and forth, I set up an online calendar where you can pick a time that fits you.  
 Please go to this link: [https://www.picktime.com/testamplificationinterviews](https://www.picktime.com/testamplificationinterviews)  
-Choose "Test Amplification Interviews" & pick a time that fits you. (plan in 45-60 mins).  
+Choose "Test Amplification Interviews" & pick a time that fits you. (plan in 45-60 mins). 
+The times are given in Amsterdam time (UTC+1). 
 If you want to use something else than zoom, please tell me in the "Booking Notes" 🙂
 
 After you picked a time, I'll send you an email with all further details and the meeting link.
