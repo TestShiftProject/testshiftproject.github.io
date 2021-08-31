@@ -7,8 +7,3 @@ callouts: team_callouts
 permalink: /team
 ---
 
-Collaborators:
-- Mark Swillus
-
-Former collaborators:
-- [Gemma Catolino](https://www.gemmacatolino.com/)

@@ -25,6 +25,13 @@ items:
       Ali is investigating test analytics.
     call_to_action_name: Learn more about Ali's PhD topic
     call_to_action_link: https://akhatami.com
+  - title: Mark Swillus 
+    subtitle: Associated PhD Student
+    description: >
+      <img src="https://avatars.githubusercontent.com/u/81824608" alt="Photo of Mark Swillus" width="300" height="300">
+
+      Mark is investigating socio-technical aspects of software testing.
+    
   - title: Mairieli Wessel
     subtitle: Post-Doc in Software Engineering
     description: >
