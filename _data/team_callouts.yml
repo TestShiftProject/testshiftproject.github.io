@@ -17,6 +17,20 @@ items:
       Caro is researching how we can support developers in improving their test suite by visualizing automated test amplification.
     call_to_action_name: Learn more about Caro's PhD topic
     call_to_action_link: /visualizing-amplification
+  - title: Ali Khatami
+    subtitle: PhD Student
+    description: >
+      <img src="https://avatars.githubusercontent.com/u/38954034" alt="Photo of Ali Khatami" width="300" height="300">
+
+      Ali is investigating test analytics.
+    call_to_action_name: Learn more about Ali's PhD topic
+    call_to_action_link: https://akhatami.com
+  - title: Mairieli Wessel
+    subtitle: Post-Doc in Software Engineering
+    description: >
+      <img src="https://mairieli.github.io/assets/img/profile.jpg" alt="Photo of Mairieli Wessel" width="300" height="300">
+    call_to_action_name: Learn more about Mairieli's research
+    call_to_action_link: https://mairieli.github.io  
   - title: Andy Zaidman
     subtitle: Professor in Software Quality
     description: >
