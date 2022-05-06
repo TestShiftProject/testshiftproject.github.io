@@ -2,7 +2,7 @@ style: is-light
 height: is-medium
 items:
   - title: You?
-    subtitle: PhD Student or Post-Doc
+    subtitle: Post-Doc
     description: >
       <img src="/img/user-placeholder.png" alt="Placeholder photo" width="300" height="300">
 
