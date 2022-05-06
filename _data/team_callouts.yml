@@ -31,6 +31,15 @@ items:
       <img src="https://avatars.githubusercontent.com/u/81824608" alt="Photo of Mark Swillus" width="300" height="300">
 
       Mark is investigating socio-technical aspects of software testing.
+
+    call_to_action_name: Learn more about Amir's PhD topic
+    call_to_action_link: https://amirdeljouyi.com
+  - title: Amirhossein Deljouyi  
+    subtitle: PhD Student
+    description: >
+      <img src="https://amirdeljouyi.com/authors/admin/avatar_hua32de7bebab42dbb38a97e5407b2680e_268138_270x270_fill_q100_lanczos_center.jpg" alt="Photo of Amirhossein Deljouyi" width="300" height="300">
+
+      Amir is investigating test generation from high-level tests.
     
   - title: Mairieli Wessel
     subtitle: Post-Doc in Software Engineering
