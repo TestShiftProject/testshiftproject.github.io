@@ -1,11 +1,14 @@
 ---
 title: Vacancies
-subtitle: We're looking for awesome  PhD Students and Post-Docs to research together with us!
+subtitle: We're looking for awesome Post-Docs to research together with us!
 layout: page
 show_sidebar: false
 permalink: /vacancies
 hero_height: is-normal
 ---
+
+
+## The positions for PhD students have been filled. We are still looking for a post-doc!
 
 For the TestShift project we are seeking enthusiastic Master students interested in obtaining a PhD degree in the cross-section of software testing, human computer interaction, and socio-technical factors in software engineering.
 The prospective PhD student is expected to do high-quality research: coming up with creative solutions, working diligently to iron out all details and getting a deeper understanding, interacting with peers around the world, but also interacting with practitioners from both the open source and industrial domain to evaluate your research.
